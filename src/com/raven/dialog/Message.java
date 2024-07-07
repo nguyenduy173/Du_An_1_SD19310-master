@@ -12,7 +12,7 @@ public class Message extends javax.swing.JDialog {
     public boolean isOk() {
         return ok;
     }
-
+///////testtttttt
     public void setOk(boolean ok) {
         this.ok = ok;
     }

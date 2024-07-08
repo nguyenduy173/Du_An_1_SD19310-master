@@ -12,8 +12,8 @@ public class Message extends javax.swing.JDialog {
     public boolean isOk() {
         return ok;
     }
-///////testtttttt
-    //09090909009
+
+
     public void setOk(boolean ok) {
         this.ok = ok;
     }
